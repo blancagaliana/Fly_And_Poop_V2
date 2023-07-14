@@ -38,7 +38,7 @@ const game = {
         this.gameOverScreen = new Image()
         this.gameOverScreen.src = "./GameOver.png"
         this.background = new Image()
-        this.background.src = "./assets/images/background.jpg"
+        this.background.src = "./Menu.png"
 
     },
 
