@@ -13,13 +13,13 @@ class Tree {
 
         this.image = new Image()
         if (this.height > this.max / 3 * 2) {
-            this.image.src = './foto arbol 4.png'
+            this.image.src = './arbol4.png'
         }
         else if (this.height > this.max / 3) {
-            this.image.src = './foto arbol 2.png'
+            this.image.src = './arbol2.png'
         }
         else if (this.height > this.max) {
-            this.image.src = './foto arbol 5.png'
+            this.image.src = './arbol5.png'
         }
 
     }

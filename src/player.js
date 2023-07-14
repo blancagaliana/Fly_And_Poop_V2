@@ -19,7 +19,7 @@ class Player {
         this.canShoot = true
 
         this.image = new Image()
-        this.image.src = './Cuervo.png'
+        this.image.src = './cuervo.png'
     }
 
     update() {
