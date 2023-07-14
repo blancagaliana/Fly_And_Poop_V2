@@ -21,7 +21,6 @@ class Tree {
         else if (this.height > this.max) {
             this.image.src = './arbol5.png'
         }
-
     }
 
     move() {
