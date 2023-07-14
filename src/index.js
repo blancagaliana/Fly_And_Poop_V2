@@ -8,4 +8,4 @@ onload = () => {
         menu.classList.toggle("non-display")
         game.init()
     }
-    }
+}

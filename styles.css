@@ -11,7 +11,7 @@ body {
     overflow: hidden;
 }
 
-menu {
+.menu {
     height: 100vh;
     display: flex;
     justify-content: center;
@@ -26,7 +26,7 @@ menu {
     font-size: 32px;
     border-radius: 2px;
     color: black;
-    background-color: #f6e7d6;
+    background-color: #9d6526;
     text-decoration: none;
     border: 2px solid black;
     padding: 20px;
@@ -34,7 +34,7 @@ menu {
 }
 
 .main-button:hover {
-    background-color: #a67648;
+    background-color: #e0dcd8;
 }
 
 .non-display {

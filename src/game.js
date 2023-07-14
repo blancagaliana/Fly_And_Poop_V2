@@ -139,7 +139,7 @@ const game = {
         this.ctx.drawImage(this.gameOverScreen, 0, 0, this.width, this.height)
         this.ctx.fillStyle = "red"
         this.ctx.font = "48px sans-serif"
-        this.ctx.fillText(`Your Score is ${this.score}`, this.width / 2, this.height / 2 + 100)
+        this.ctx.fillText(`Your Score is ${this.score}`, this.width / 2 - 165, this.height / 2 + 200)
 
         setTimeout(() => {
             location.reload()

@@ -4,7 +4,7 @@ class Tree {
         this.canvasHeight = canvasHeight
         this.canvasWidth = canvasWidth
 
-        this.height = Math.random() * this.canvasHeight - 30 * 2
+        this.height = Math.random() * this.canvasHeight - 36 * 2
         this.width = 150
         this.max = this.canvasHeight - 30 * 2
 
